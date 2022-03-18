@@ -40,8 +40,8 @@ This challenge is created to evaluate your programming skills and knowledge for 
 ## Deliverables
   We expect you to deliver a fully functional application with the following
   
-    - [x] Public Github repository to access your code
-    - [x] A well-structured README file describing your solution approach and how to run the application and test cases
+    - Public Github repository to access your code
+    - A well-structured README file describing your solution approach and how to run the application and test cases
     
 ## Technical Stack
 React native, Typescript, ES6+, Expo, Apollo Client, GraphQL, Jest/Enzyme, React Navigation, NativeBase.io
